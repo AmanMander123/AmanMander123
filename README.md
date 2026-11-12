@@ -4,9 +4,9 @@ I build and integrate AI systems with a forward deployed engineering focus: unde
 
 ## Selected work
 
-- **[Multi-tenant document search and Q&A](https://github.com/AmanMander123/multi-tenant-rag-system)** — A background ingestion pipeline and hybrid search API for separate document collections. The local sample checks how search results merge, retain their sources, and pass tenant context to both lookups.
-- **[Financial news research workflow](https://github.com/AmanMander123/agentic-ai-content-generation)** — An agent workflow that collects articles, writes a brief, and drafts a short post for review. The repo includes synthetic examples and checks for the output constraints.
-- **[UK used car price estimator](https://github.com/AmanMander123/UKUsedCarPrices)** — A historical example of taking a model from notebook to API and web app. The local walkthrough uses the original model; the write-up explains how I originally deployed it.
+- **[Multi-tenant document search and Q&A](https://github.com/AmanMander123/multi-tenant-rag-system)** — A background ingestion pipeline and hybrid search API for separate document collections. [Run the retrieval check](https://github.com/AmanMander123/multi-tenant-rag-system#run-the-local-sample) to see how results merge, keep their sources, and pass tenant context to both lookups.
+- **[Financial news research workflow](https://github.com/AmanMander123/agentic-ai-content-generation)** — An agent workflow that collects articles, writes a brief, and drafts a short post for review. [See the sample outputs and validation checks](https://github.com/AmanMander123/agentic-ai-content-generation#run-the-local-sample).
+- **[UK used car price estimator](https://github.com/AmanMander123/UKUsedCarPrices)** — A historical example of taking a model from notebook to API and web app. [Run the original model locally](https://github.com/AmanMander123/UKUsedCarPrices#run-the-local-sample) through the Flask form and API.
 
 ## How my work has grown
 
